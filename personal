@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Esteban Machuca Moreno</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        .header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #333;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        .contact {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        a {
+            color: #333;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Esteban Machuca Moreno</h1>
+        <p>Apasionado por la economía y la lectura</p>
+    </div>
+    <div class="container">
+        <div class="section" id="sobre-mi">
+            <h2>Sobre Mí</h2>
+            <p>Hola, soy Esteban Machuca Moreno. Soy un apasionado de la economía y la lectura, siempre en busca de nuevas oportunidades para aprender y crecer profesionalmente.</p>
+        </div>
+        <div class="section" id="experiencia-profesional">
+            <h2>Experiencia Profesional</h2>
+            <p>Aquí puedes incluir tu experiencia profesional, con detalles sobre los roles que has desempeñado y las responsabilidades que has tenido.</p>
+        </div>
+        <div class="section" id="proyectos">
+            <h2>Proyectos</h2>
+            <p>En esta sección, puedes mostrar algunos de los proyectos en los que has trabajado, destacando aquellos que más te enorgullecen.</p>
+        </div>
+        <div class="section" id="habilidades">
+            <h2>Habilidades</h2>
+            <p>Una lista de tus habilidades clave y competencias que te hacen un candidato destacado en tu campo.</p>
+        </div>
+        <div class="section" id="contacto">
+            <h2>Contacto</h2>
+            <p>Puedes contactarme a través de <a href="mailto:esteban@example.com">esteban@example.com</a>.</p>
+        </div>
+    </div>
+    <div class="contact">
+        <p>&copy; 2024 Esteban Machuca Moreno</p>
+    </div>
+</body>
+</html>
